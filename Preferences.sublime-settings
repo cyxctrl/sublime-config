@@ -1,0 +1,32 @@
+{
+	"Theme": "Aprosopo Light@st3.sublime-theme",
+	"bold_folder_labels": true,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Theme - Aprosopo/Tomorrow-Night-Eighties-Stormy.tmTheme",
+	"default_line_ending": "unix",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Droid Sans Mono",
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true"
+}
